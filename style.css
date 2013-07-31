@@ -9,6 +9,10 @@ body {
   background-image:url('https://f.cloud.github.com/assets/5033773/880500/ab849e44-f93c-11e2-8a0b-78b9e4639a44.jpg');
 }
 
+li {
+   color: Gold;
+}
+
 a {
   color: #0088cc;
 } 
